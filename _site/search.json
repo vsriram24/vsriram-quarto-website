@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Vivek Sriram, PhD",
+    "section": "",
+    "text": "Welcome to my website! I am a biomedical data scientist and health machine learning researcher based in Seattle, WA.\nMy general research skills and interests include:\n\ntranslational bioinformatics and personalized medicine\nbig data analysis\ndeep learning and generative AI\ncloud-based genomics\ndata visualization\nhuman-centered design\n\nI am always open to speaking, teaching, collaboration, consulting, and outreach opportunities. You can send questions or requests to me at vivek.sriram@gmail.com."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I currently work as a clinical data scientist at the Fred Hutchinson Cancer Center Data Science Lab (DaSL) in Seattle, WA. My role focuses on the development and productization of statistical models and machine learning systems for electronic phenotyping and cohort identification across the institution. I also serve as a guest lecturer in the Department of Biostatistics, Epidemiology, and Informatics at the University of Pennsylvania and a collaborator with the Health Futures Group at Microsoft Research.\nPrior to my position at Fred Hutch, I completed my Ph.D. and postdoctoral training in Biomedical Informatics and Computational Genomics at the University of Pennsylvania Perelman School of Medicine. There, I worked with Dr. Dokyoon Kim’s Integrative ’Omics and Biomedical Informatics Lab, developing machine learning and graph-based methods to identify genetic contributors to disease comorbidities from large-scale multimodal biomedical data (You can listen to a recording of my public thesis defense here!)\nIn addition to my doctoral degree, I hold a M.A. in Statistics and Data Science from the Wharton School of Business, as well as a B.Sc. with honors in Statistics, a B.Sc. in Computer Science, and a minor in Computational Biology from Duke University."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About Me",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Vivek Sriram",
+    "section": "Education",
+    "text": "Education\nUniversity of Pennsylvania, Perelman School of Medicine | Philadelphia, PA\n\nPhD in Biomedical Informatics and Computational Genomics | August 2019 - October 2023\nUniversity of Pennsylvania: Wharton School of Business | Philadelphia, PA\n\nMA in Statistics and Data Science | August 2019 - May 2022\n\nDuke University | Durham, NC\n\nBSc in Statistics, BSc in Computer Science, Minor in Computational Biology | August 2015 - May 2019"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Vivek Sriram",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "posts/hello-world/index.html",
+    "href": "posts/hello-world/index.html",
+    "title": "Hello world!",
+    "section": "",
+    "text": "Hello!"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Sriram V§, Nam Y§, Shivakumar M, Verma A, Jung S-H, Lee SM*, Kim D*. A Network-Based Analysis of Disease Complication Associations for Obstetric Disorders in the UK Biobank. Journal of Personalized Medicine. 2021; 11(12):1382. https://doi.org/10.3390/jpm11121382\nNam Y§, Jung S-H§, Verma A, Sriram V, Wong H-H, Yun J-S, Kim D*. netCRS: Network-based comorbidity risk score for prediction of myocardial infarction using biobank-scaled PheWAS data. Pacific Symposium on Biocomputing 2022. https://doi.org/10.1142/9789811250477_0030\nSriram V§, Shivakumar M§, Jung S-H, Nam Y, Bang L, Verma A, Lee S, Choe EK, Kim D, NETMAGE: A human disease phenotype map generator for the network-based visualization of phenome-wide association study results, GigaScience, Volume 11, 2022, giac002, https://doi.org/10.1093/gigascience/giac002\nLee S§, Nam Y§, Choi ES, Jung YM, Sriram V, Leiby J, Koo JN, Oh IH, Kim BJ, Kim SM, Kim SY, Kim GM, Joo SK, Shin S, Norwitz E, Park CW, Jun JK, Kim W, Kim D*, Park JS*. Development of early prediction model for pregnancy-associated hypertension with graph-based semi-supervised learning. Scientific Reports, 12(1), 15793, 2022. https://doi.org/10.1038/s41598-022-15391-4\nNam Y§, Jung SH§, Yun JS, Verma A, Sriram V, Shin H, Won H*, Kim D*. Discovering comorbid diseases using an inter-disease interactivity network based on biobank-scale PheWAS data. Bioinformatics 39(1), 2023. https://doi.org/10.1093/bioinformatics/btac822\nWoerner J§, Sriram V§, Nam Y, Verma A, Kim D*. Uncovering genetic associations in the human diseasome using an endophenotype-augmented disease network. Bioinformatics 40(3), 2024. https://doi.org/10.1093/bioinformatics/btae126.\nSriram V, Conard AM, Rosenberg I, Kim D, Hall AK*. Accelerating precision medicine: a proposed framework for large-scale multiomic data integrity, interoperability, analysis, and collaboration in biomedical discovery. medRXiv. https://doi.org/10.1101/2024.03.15.24304358. Preprint.\nNam Y§, Sriram V§, Shivakumar M, Verma A, Yun JS, Kim D*. An enhanced disease network with robust cross-phenotype relationships via variant frequency-inverse phenotype frequency. Preprint.\nSriram V, Woerner J, Ahn YY*, Kim D*. The interplay of sex and genotype in disease associations: a comprehensive network analysis in the UK Biobank. Preprint."
+  }
+]

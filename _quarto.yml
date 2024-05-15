@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Home"
+  site-url: "https://viveksriram.com"
+  navbar:
+    theme: lumen
+    background: "#99bb8a"
+    pinned: true
+    right:
+      - about.qmd
+      - blog.qmd
+      - publications.qmd
+  page-footer:
+    left: |
+      Powered by [Quarto](https://quarto.org)
+    border: false
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

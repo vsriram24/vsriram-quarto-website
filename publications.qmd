@@ -1,0 +1,22 @@
+---
+title: "Publications"
+---
+
+1. **Sriram V§,** Nam Y§, Shivakumar M, Verma A, Jung S-H, Lee SM\*, Kim D\*. A Network-Based Analysis of Disease Complication Associations for Obstetric Disorders in the UK Biobank. *Journal of Personalized Medicine*. 2021; 11(12):1382. <https://doi.org/10.3390/jpm11121382>
+
+2. Nam Y§, Jung S-H§, Verma A, **Sriram V**, Wong H-H, Yun J-S, Kim D\*. netCRS: Network-based comorbidity risk score for prediction of myocardial infarction using biobank-scaled PheWAS data. *Pacific Symposium on Biocomputing 2022.* <https://doi.org/10.1142/9789811250477_0030>
+
+3. **Sriram V§,** Shivakumar M§, Jung S-H, Nam Y, Bang L, Verma A, Lee S, Choe EK, Kim D, NETMAGE: A human disease phenotype map generator for the network-based visualization of phenome-wide association study results, *GigaScience*, Volume 11, 2022, giac002, <https://doi.org/10.1093/gigascience/giac002>
+
+4. Lee S§, Nam Y§, Choi ES, Jung YM, **Sriram V**, Leiby J, Koo JN, Oh IH, Kim BJ, Kim SM, Kim SY, Kim GM, Joo SK, Shin S, Norwitz E, Park CW, Jun JK, Kim W, Kim D\*, Park JS\*. Development of early prediction model for pregnancy-associated hypertension with graph-based semi-supervised learning. *Scientific Reports*, 12(1), 15793, 2022. <https://doi.org/10.1038/s41598-022-15391-4>
+
+5. Nam Y§, Jung SH§, Yun JS, Verma A, **Sriram V**, Shin H, Won H\*, Kim D\*. Discovering comorbid diseases using an inter-disease interactivity network based on biobank-scale PheWAS data. *Bioinformatics* 39(1), 2023. <https://doi.org/10.1093/bioinformatics/btac822>
+
+6. Woerner J§, **Sriram V§,** Nam Y, Verma A, Kim D\*. Uncovering genetic associations in the human diseasome using an endophenotype-augmented disease network. *Bioinformatics* 40(3), 2024. <https://doi.org/10.1093/bioinformatics/btae126>.
+
+
+7. **Sriram V**, Conard AM, Rosenberg I, Kim D, Hall AK\*. Accelerating precision medicine: a proposed framework for large-scale multiomic data integrity, interoperability, analysis, and collaboration in biomedical discovery. *medRXiv*. <https://doi.org/10.1101/2024.03.15.24304358>. Preprint.
+
+8. Nam Y§, **Sriram V§,** Shivakumar M, Verma A, Yun JS, Kim D\*. An enhanced disease network with robust cross-phenotype relationships via variant frequency-inverse phenotype frequency. Preprint.
+
+9. **Sriram V**, Woerner J, Ahn YY\*, Kim D\*. The interplay of sex and genotype in disease associations: a comprehensive network analysis in the UK Biobank. Preprint.

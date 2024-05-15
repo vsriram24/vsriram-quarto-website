@@ -1,0 +1,40 @@
+---
+title: "Vivek Sriram, PhD"
+image: vivek_cropped.JPG
+about:
+  template: broadside
+  links: 
+    - icon: envelope-fill
+      text: Email
+      href: "mailto:vivek.sriram@gmail.com"
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/viveksrm24
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/vivek-sriram/
+    - icon: github
+      text: GitHub
+      href: https://github.com/vsriram24
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=ZN4ZFuUAAAAJ&hl=en
+---
+
+Welcome to my website! I am a biomedical data scientist and health machine learning researcher based in Seattle, WA.
+
+My general research skills and interests include:
+
+- translational bioinformatics and personalized medicine
+
+- big data analysis
+
+- deep learning and generative AI
+
+- cloud-based genomics
+
+- data visualization
+
+- human-centered design
+
+I am always open to speaking, teaching, collaboration, consulting, and outreach opportunities. You can send questions or requests to me at [vivek.sriram@gmail.com](mailto:vivek.sriram@gmail.com).
